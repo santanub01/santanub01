@@ -17,7 +17,7 @@ At **Serent.AI** I'm building revenue cycle management for home health.
 - Emerging Markets, **Meta** — 300M users across 79 countries
 - Founder, **Salorix** · Global Head of Analytics, **AOL** · Earlier: **Kearney**, **OriginLab**
 
-**Background** — B.Tech IIT Bombay · MIT · Ph.D., University of Maryland & NASA Goddard (superconducting IR detectors) · NASA/ESA **Cassini–Huygens** engineering team · Harvard COVID-19 Mobility Data Network · Speaker, **World Economic Forum** (Davos) · Former Visiting Professor, IISc
+**Background** — B.Tech IIT Bombay · MIT · Ph.D., NASA Goddard (superconducting IR detectors) · NASA/ESA **Cassini–Huygens** engineering team · Harvard COVID-19 Mobility Data Network · Speaker, **World Economic Forum** (Davos) · Former Visiting Professor, IISc
 
 Coverage: *Forbes*, *TechCrunch*, *The Economist*, *Le Monde*, *WSJ*, *The Economic Times* · [Wikipedia](https://en.wikipedia.org/wiki/Santanu_Bhattacharya_(data_scientist))
 
